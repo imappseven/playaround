@@ -19,3 +19,8 @@ class Solution(object):
             return True
         else:
             return False
+<<<<<<< HEAD
+=======
+
+                
+>>>>>>> 94b2e06 (change the first solution)
